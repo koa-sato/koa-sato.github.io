@@ -12,7 +12,14 @@ li {
 }
 th {
 	color: #ff0012;
+	border: 1px solid black;
+}
+td {
+	border: 1px solid black;
 }
 tr {
 	color: #00540e;
+}
+#course_table {
+	border-collapse: collapse;
 }
